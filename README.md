@@ -22,9 +22,8 @@ Web and Mobile App development student at **Ipluso**, focused on learning new pr
 
 ## Top Languages
 
-![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=GODIN8&theme=holi)
+![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=GODIN8&theme=holi)
 
 ## How to reach me
 
 Email: marianarosa88.mr@gmail.com
-
