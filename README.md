@@ -16,7 +16,7 @@ Web and Mobile App development student at **Ipluso**, focused on learning new pr
 ![Vscode](https://img.shields.io/badge/Vscode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-000?style=for-the-badge&logo=windows&logoColor=2CA5E0)
 
-**Confortable with:**
+## 💻 Confortable with:
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" title="HTML5" />
   &nbsp;&nbsp;
@@ -26,7 +26,7 @@ Web and Mobile App development student at **Ipluso**, focused on learning new pr
   &nbsp;&nbsp;
 </p>
 
-**Currently learning:**
+## 🎓 Currently learning:
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" title="JavaScript" />
   &nbsp;&nbsp;
@@ -35,5 +35,20 @@ Web and Mobile App development student at **Ipluso**, focused on learning new pr
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45" title="MySQL"/>
 </p>
 
+## 🎯 Current Focus
+
+- Improving my software development skills.
+- Exploring full-stack development.
+- Practicing database design and SQL.
+- Building personal projects.
+- Learning more about software architecture.
+
 ## Top Languages
-![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=GODIN8&theme=holi)
+<!-- ![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=GODIN8&theme=holi) -->
+<picture>
+    <source
+      srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=GODIN8&langs_count=4&theme=dark_github"
+      media="(prefers-color-scheme: dark)"
+    />
+    <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=GODIN8&langs_count=4&theme=light_github" alt="Top Langs" />
+</picture>
